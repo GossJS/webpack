@@ -7,4 +7,4 @@ webpack research
   
   git clone -b simple https://github.com/GossJS/webpack.git x && cd x && yarn
   
-  
+  всё закачается в папку x и установится и сбандлится и запустится. ожидаемый вывод: Elias 
