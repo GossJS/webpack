@@ -1,8 +1,11 @@
 {
   "scripts": {
-     "postinstall": "webpack && node bundle"
+    "postinstall": "webpack && node bundle"
   },
   "devDependencies": {
     "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
   }
 }
