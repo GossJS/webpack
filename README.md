@@ -5,4 +5,6 @@ webpack research
  
   https://kodaktor.ru/g/webpack
   
+  git clone -b simple https://github.com/GossJS/webpack.git x && cd x && yarn
+  
   
