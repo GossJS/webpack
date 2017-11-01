@@ -1,10 +1,10 @@
 # webpack
 
 
-bundle.js  43.6 kB
+bundle.js  544.2 kB
 
-import has from 'lodash/has';
+import has from 'lodash';
 
 yarn run postinstall
 
-https://zolotyh.github.io/treeshaking/index.html#/32
+https://zolotyh.github.io/treeshaking/index.html#/31
