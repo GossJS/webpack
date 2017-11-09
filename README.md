@@ -23,3 +23,7 @@ webpack research
  см. также  babel-конфигурацию для реакта https://github.com/GossJS/react_starters1
  
  и конфигурации для реакта для dev и prod - https://github.com/GossJS/quick-start-react
+
+минималистичная сборка для портфолио в хироку с использованием преобразователя SASS
+
+https://github.com/GossJS/heroku/tree/sass_webpack
