@@ -1,5 +1,5 @@
 module.exports = {
-  "entry": "./src/1.mjs",
+  "entry": "./src/index.mjs",
   "resolve" : {"extensions": [".js", ".mjs"]},
   "output": {
     "path": __dirname,
