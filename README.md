@@ -1,4 +1,5 @@
 # webpack
+<script src="main.js"></script>
 webpack research
 
 на 14.02.2018 самая свежая версия 4.0.0-beta.1 и она не требует конфигурационного файла, но требует webpack-cli
