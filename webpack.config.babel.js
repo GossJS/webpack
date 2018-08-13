@@ -1,4 +1,5 @@
 import HtmlWebpackPlugin from 'html-webpack-plugin';
+const WDS_PORT = 1234;
 export default {
   "output": {
     "filename": "bundle.js"
@@ -16,5 +17,9 @@ export default {
   },
   "plugins": [
     new HtmlWebpackPlugin()
-  ]
+  ],
+  "devServer": {
+    "port": WDS_PORT,
+    "host": "0.0.0.0"
+  }
 };
